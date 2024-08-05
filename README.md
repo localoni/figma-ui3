@@ -39,4 +39,5 @@ return response;
 }
 ```
 
-Note: It will work only with default Figma app version, not working for Figma Beta app
+> [!NOTE]
+> It will work only with default Figma app version, not working for Figma Beta app
