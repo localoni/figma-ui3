@@ -1,6 +1,6 @@
 # Enable Figma UI3 for Windows and MacOS
 
-1. Install Proxyman
+1. Install Proxyman (https://proxyman.io/)
 2. Add script using "Scripting"
 
 
