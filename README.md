@@ -3,6 +3,8 @@
 > [!NOTE]
 > It will work only with default Figma app version, not working for Figma Beta app
 
+![Screenshot of Figma UI3](preview.jpg)
+
 ## Guide
 1. Install [Proxyman](https://proxyman.io/)
 2. Add script using **Scripting**
