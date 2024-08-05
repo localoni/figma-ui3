@@ -1,4 +1,3 @@
-// Proxyman Script
 async function onResponse(context, url, request, response) {
     try {
         console.log('URL fetched successfully:', url);
