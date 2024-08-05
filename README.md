@@ -5,7 +5,7 @@
 
 
 Url: `https:\/\/.*figma-.*\.min\.js\.br$`
-Any / Ure Regex
+Any / Use Regex
 
 Script:
 ```
