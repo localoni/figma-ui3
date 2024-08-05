@@ -4,7 +4,7 @@
 2. Add script using "Scripting"
 
 
-Url: https:\/\/.*figma-.*\.min\.js\.br$
+Url: `https:\/\/.*figma-.*\.min\.js\.br$`
 Any / Ure Regex
 
 Script:
