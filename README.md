@@ -1,14 +1,14 @@
 # Enable Figma UI3 for Windows and MacOS
 
+> [!NOTE]
+> It will work only with default Figma app version, not working for Figma Beta app
+
 ## Guide
 1. Install [Proxyman](https://proxyman.io/)
 2. Add script using **Scripting**
 3. Save script
 4. Open context menu in Figma (arrow icon in right corner on top) and select **Help** -> **Troubleshooting** -> **Clear Cache and Restart**
 5. Relogin and enjoy!
-
-> [!NOTE]
-> It will work only with default Figma app version, not working for Figma Beta app
 
 ## Matching Rule
 URL: `https:\/\/.*figma-.*\.min\.js\.br$` / `Any` / `Use Regex`
