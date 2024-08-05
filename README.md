@@ -11,7 +11,7 @@
 > It will work only with default Figma app version, not working for Figma Beta app
 
 ## Matching Rule
-Url: `https:\/\/.*figma-.*\.min\.js\.br$`
+URL: `https:\/\/.*figma-.*\.min\.js\.br$` 
 Any / Use Regex
 
 ## Script code
