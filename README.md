@@ -37,3 +37,6 @@ async function onResponse(context, url, request, response) {
 return response;
 
 }
+```
+
+Note: It will work only with default Figma app version, not working for Figma Beta app
