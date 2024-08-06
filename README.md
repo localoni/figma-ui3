@@ -13,7 +13,7 @@
 5. Relogin and enjoy!
 
 ## Matching Rule
-URL: `https:\/\/.*figma-app.*\.min\.js\.br$` / `Any` / `Use Regex`
+URL: `https:\/\/.*figma.*\.min\.js\.br$` / `Any` / `Use Regex`
 
 ## Script code
 ```
