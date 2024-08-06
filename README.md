@@ -1,7 +1,7 @@
 # Enable Figma UI3 for Windows and MacOS
 
 > [!NOTE]
-> It will work only with default Figma app version, not working for Figma Beta app
+> Working for Default app, Beta app and browser version.
 
 ![Screenshot of Figma UI3](preview.png) 
 
